@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/subscription/page": "app/subscription/page.js",
+  "/case/page": "app/case/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/locations/page": "app/locations/page.js"
+}
